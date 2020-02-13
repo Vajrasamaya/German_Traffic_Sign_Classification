@@ -5,3 +5,11 @@ German Traffic Signs Recognition Benchmark (GTSRB, http://benchmark.ini.rub.de/)
 - It is related to a single image, multi-class clasification problem
 - Images are grouped into 43 classes of German traffic signs.
 - Over 50K individual images
+
+
+
+
+
+
+### Presentation link  
+https://docs.google.com/presentation/d/1k76cQbXxcco-5Ez0Z9QvfXYe8Il5pXxkfVzWobDyuWo/edit#slide=id.g6efed5c069_1_4
